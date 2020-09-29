@@ -12,6 +12,6 @@ mod tests {
 
     #[test]
     fn test() {
-        assert_eq!(hello_world(), "Hello Worlds".to_string());
+        assert_eq!(hello_world(), "Hello Worldss".to_string());
     }
 }
